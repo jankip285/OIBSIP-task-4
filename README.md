@@ -5,7 +5,7 @@
 Open PowerShell in this folder:
 
 ```powershell
-cd "C:\Users\ASUS\Downloads\task 4 oibsip\task4 obsip"
+cd "C:\Users\ASUS\Downloads\task 4 oibsip"
 .\setup_env.ps1
 ```
 
