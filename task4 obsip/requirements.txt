@@ -1,0 +1,4 @@
+gradio>=3.35,<4.0
+# Allow pip to select a compatible TensorFlow build for this environment
+tensorflow>=2.11
+numpy>=1.24,<2.0
